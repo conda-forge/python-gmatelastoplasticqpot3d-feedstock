@@ -24,6 +24,7 @@ requirements:
     - pyxtensor
     - gmattensor
     - gmatelastic
+    - qpot
   run:
     - python
 
